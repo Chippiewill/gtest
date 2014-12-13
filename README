@@ -1,3 +1,8 @@
+###
+This is a MINIFIED version of gtest (See `MINIFY.sh`). I use this as a
+dependency on some of my projects, in order to avoid manually copying this
+each time
+
 Google C++ Testing Framework
 ============================
 
